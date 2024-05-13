@@ -1,0 +1,17 @@
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\bin\Release\net8.0\win-x64\UnidadRed.exe
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\bin\Release\net8.0\win-x64\UnidadRed.deps.json
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\bin\Release\net8.0\win-x64\UnidadRed.runtimeconfig.json
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\bin\Release\net8.0\win-x64\UnidadRed.dll
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\bin\Release\net8.0\win-x64\UnidadRed.pdb
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\UnidadRed.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\UnidadRed.AssemblyInfoInputs.cache
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\UnidadRed.AssemblyInfo.cs
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\UnidadRed.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\UnidadRed.dll
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\refint\UnidadRed.dll
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\UnidadRed.pdb
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\UnidadRed.genruntimeconfig.cache
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\ref\UnidadRed.dll
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\bin\Release\net8.0\win-x64\Newtonsoft.Json.dll
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\UnidadRed.csproj.AssemblyReference.cache
+C:\Users\Angel\Desktop\UnidadRed\UnidadRed\obj\Release\net8.0\win-x64\UnidadRed.csproj.Up2Date
